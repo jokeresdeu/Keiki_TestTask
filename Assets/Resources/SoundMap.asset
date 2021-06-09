@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5d9eada41e0e04a85c48a9d3512390, type: 3}
+  m_Name: SoundMap
+  m_EditorClassIdentifier: 
+  _variableSounds:
+  - _soundId: 0
+    _clips:
+    - {fileID: 8300000, guid: 04353ac3564406f4cb6516570b25ea48, type: 3}
+    - {fileID: 8300000, guid: ae5b128b273cf3c4cbb262426b8c7245, type: 3}
+    - {fileID: 8300000, guid: fbde39f147c6d2240b9acd4c7bb5b7d5, type: 3}
+    - {fileID: 8300000, guid: fc2235b6aadd2cb40830fc6e4dc77698, type: 3}
+    - {fileID: 8300000, guid: bb150a498d3a5264fb68ccace5820b9a, type: 3}
+    - {fileID: 8300000, guid: 9b58a6595ef8efc48b3fb2f40c1a5e1d, type: 3}
+    - {fileID: 8300000, guid: 6d2b54284ebe9d741b108a0b5ee1babd, type: 3}
+  - _soundId: 1
+    _clips:
+    - {fileID: 8300000, guid: fcef315e6310479448bd7189e057b944, type: 3}
+    - {fileID: 8300000, guid: 237f7f5935e272f43bf6e0c3a6d8731e, type: 3}
+    - {fileID: 8300000, guid: 33bf1a785ed849248947b9c724912c62, type: 3}
+    - {fileID: 8300000, guid: 0b85e8bd9782f724495d681bfa605a3d, type: 3}
+    - {fileID: 8300000, guid: 914ec9bcdf75fb34e92c0f5c131f3d8b, type: 3}
+    - {fileID: 8300000, guid: e85119f344425a141813668d6c53b926, type: 3}
+    - {fileID: 8300000, guid: c124b29fbe8390047be403ea051efbc5, type: 3}
+  _singularAnimalSounds:
+  - _soundId: 2
+    _sounds:
+    - _animalId: 0
+      _adioClip: {fileID: 8300000, guid: d0ff8b4f6bbbdbd41914a93d2e7f30ae, type: 3}
+    - _animalId: 1
+      _adioClip: {fileID: 8300000, guid: 165d1a87b5526de4aa5660651a485c1f, type: 3}
+    - _animalId: 2
+      _adioClip: {fileID: 8300000, guid: c74ae88dfa829904896bfac51a5c5418, type: 3}
+    - _animalId: 3
+      _adioClip: {fileID: 8300000, guid: 6009612dfbd4cda4c99591511ed92cd7, type: 3}
+    - _animalId: 4
+      _adioClip: {fileID: 8300000, guid: db005e44a48296a4287a0082f2c72e52, type: 3}
+    - _animalId: 5
+      _adioClip: {fileID: 8300000, guid: 1794eef66d9622a48b62b3fd9db0c068, type: 3}

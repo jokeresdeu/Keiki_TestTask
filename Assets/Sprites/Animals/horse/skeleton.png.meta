@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: d40427b25173fcd4495a8747b7fb7cff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8800983034832729161
+    second: pic/11
+  - first:
+      213: 5154207837446040978
+    second: pic/22
+  - first:
+      213: 6558902758898874448
+    second: pic/Ear
+  - first:
+      213: 4725215509009826149
+    second: pic/Ear 2
+  - first:
+      213: 6216387968313357908
+    second: pic/Eyelid
+  - first:
+      213: -3507856359016147069
+    second: pic/Eyelid 2
+  - first:
+      213: -3656103518167126871
+    second: pic/Eyelid 2 closed
+  - first:
+      213: 2318054481746460838
+    second: pic/Eyelid closed
+  - first:
+      213: -6930194752470469115
+    second: pic/Eyes
+  - first:
+      213: 6658309080199139597
+    second: pic/Hair
+  - first:
+      213: 2806612385349892760
+    second: pic/Hair 2
+  - first:
+      213: -6846700597668149160
+    second: pic/Head
+  - first:
+      213: -4317608569363580736
+    second: pic/Mouse
+  - first:
+      213: -4753257016361333895
+    second: pic/Pupil
+  - first:
+      213: 5163887982073853986
+    second: pic/Spine
+  - first:
+      213: -2974159943654660293
+    second: pic/Tail
+  - first:
+      213: -7658931267164843324
+    second: pic/bliki
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pic/11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 174
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b179c07f532a70800000000000000
+      internalID: 8800983034832729161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/22
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 321
+        width: 429
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d618158bc678740800000000000000
+      internalID: 5154207837446040978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Ear
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 462
+        width: 87
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0583f740f47e50b50800000000000000
+      internalID: 6558902758898874448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Ear 2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 462
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56182bd5876539140800000000000000
+      internalID: 4725215509009826149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Eyelid
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 462
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456745ddbeb054650800000000000000
+      internalID: 6216387968313357908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Eyelid 2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 462
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3875fb51a37915fc0800000000000000
+      internalID: -3507856359016147069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Eyelid 2 closed
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 445
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca7999839e24dc0800000000000000
+      internalID: -3656103518167126871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Eyelid closed
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 462
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0008205426b2020800000000000000
+      internalID: 2318054481746460838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Eyes
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 245
+        width: 122
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b8b2279003df90800000000000000
+      internalID: -6930194752470469115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Hair
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2
+        width: 158
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01170ac4d0176c50800000000000000
+      internalID: 6658309080199139597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Hair 2
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 318
+        width: 145
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89afdfa281713f620800000000000000
+      internalID: 2806612385349892760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Head
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 2
+        width: 194
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580980f412abf0a0800000000000000
+      internalID: -6846700597668149160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Mouse
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 445
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8b6efb1e5c414c0800000000000000
+      internalID: -4317608569363580736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Pupil
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 462
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b46ad6de9090eb0800000000000000
+      internalID: -4753257016361333895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Spine
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 338
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228bb6f92c0d9a740800000000000000
+      internalID: 5163887982073853986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/Tail
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2
+        width: 214
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37a44df949a9b6d0800000000000000
+      internalID: -2974159943654660293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pic/bliki
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 499
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2d18d579206b590800000000000000
+      internalID: -7658931267164843324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
